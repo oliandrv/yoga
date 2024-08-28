@@ -1,3 +1,8 @@
 # yoga
 
-https://www.flaticon.com/ru/free-icon/yoga-mat_5963224?term=yoga&page=1&position=55&origin=search&related_id=5963224 - author favicon
+Этот проект предоставляется только для учебных целей и не предназначен для коммерческого использования.
+
+## Favicon
+
+- **Исходный файл:** (https://www.flaticon.com/ru/free-icon/yoga-mat_5963224?term=yoga&page=1&position=55&origin=search&related_id=5963224)
+- **Описание:** Иконка используется для представления сайта.
