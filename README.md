@@ -10,3 +10,4 @@
 # figma
 Ссылка на макет - https://www.figma.com/design/sUJyK9YCbUmTERkDyju84c/%D0%B9%D0%BE%D0%B3%D0%B0?node-id=542-0&t=PpRfXcsd6ByWyuP3-1
 
+В этом проекте нет адаптива, так как макет изначально его не подразумевал, а я не стала заморачиваться :)
